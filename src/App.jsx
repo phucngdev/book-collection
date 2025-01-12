@@ -5,13 +5,16 @@ import "./App.css";
 import Books from "./pages/Books";
 import { Route, Routes } from "react-router-dom";
 import Detail from "./pages/Detail";
+import Public from "./routes/Public";
 
 function App() {
   return (
     <>
       <Routes>
-        <Route path="/" element={<Books />} />
-        <Route path="/:id" element={<Detail />} />
+        <Route path="/" element={<Public />}>
+          <Route index element={<Books />} />
+          <Route path=":slug" element={<Detail />} />
+        </Route>
       </Routes>
     </>
   );

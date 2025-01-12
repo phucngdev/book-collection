@@ -31,6 +31,12 @@ const animes = [
       "https://product.hstatic.net/200000343865/product/6_952c89aa38ea46d48cc79e1cacc2edb0_compact.jpg",
       "https://product.hstatic.net/200000343865/product/inh-thoang-lai-treu-gheo-toi-bang-tieng-nga_tap-6_ban-pho-thong_poster_70366f4e07e84d98b5aaae6a2773b45f_compact.jpg",
       "https://product.hstatic.net/200000343865/product/6---boxset_b32f1a616085484b99a8c33a62e714e2_master.jpg",
+      "https://product.hstatic.net/200000343865/product/6_952c89aa38ea46d48cc79e1cacc2edb0_compact.jpg",
+      "https://product.hstatic.net/200000343865/product/inh-thoang-lai-treu-gheo-toi-bang-tieng-nga_tap-6_ban-pho-thong_poster_70366f4e07e84d98b5aaae6a2773b45f_compact.jpg",
+      "https://product.hstatic.net/200000343865/product/6---boxset_b32f1a616085484b99a8c33a62e714e2_master.jpg",
+      "https://product.hstatic.net/200000343865/product/6_952c89aa38ea46d48cc79e1cacc2edb0_compact.jpg",
+      "https://product.hstatic.net/200000343865/product/inh-thoang-lai-treu-gheo-toi-bang-tieng-nga_tap-6_ban-pho-thong_poster_70366f4e07e84d98b5aaae6a2773b45f_compact.jpg",
+      "https://product.hstatic.net/200000343865/product/6---boxset_b32f1a616085484b99a8c33a62e714e2_master.jpg",
     ],
     author: "Sunsunsun & Momoco",
     price: 85500, // Giá tiền (đơn vị USD)
